@@ -15,7 +15,7 @@ To Compress...
       
 
 To Uncompress...
-(1):  Call decompress in the python shell, uncompress(x,y), where x is the file to be uncompressed and y is the file where the
-      contents of the uncompressed file gets copied. 
+(1):  Call decompress in the python shell, uncompress(x,y), where x is the file to be uncompressed and y is final, uncompressed 
+      file.  
       
     
