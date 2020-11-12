@@ -3,7 +3,7 @@ Huffman Encoding by Anthony Trinh
 
 
 Getting Started...
-This is a file compressor based on the Huffman file compression algorithm. 
+This is a file compressor based on the Huffman's encoding algorithm. 
 
 
 
